@@ -1,12 +1,18 @@
 # Ian Horn
 ## Kentucky Nature Preserves
 
+
+
 - I am the project technical lead for Kentucky Nature Preserves Environmental Review tool known as [KY-BAT](https://kynaturepreserves.org "Kentucky Biological Assessment Tool").
 
 ![KY-BAT](images/ky-bat.JPG)
 
 
+
+
 - New Maps Plus [Portfolio](https://rihorn.github.io "NMP Portfolio")
+
+
 
 ### Sample scripts 
 
@@ -24,11 +30,17 @@ ogr2ogr  -append -overwrite -nlt polygon -nln ksnpc_sites  -a_srs EPSG:3089 -pro
 $ ogr2ogr -overwrite -a_srs EPSG:3089 -f "ESRI Shapefile" "sqlexport.shp" "mssql:server=EEC1VP-SQXX001.EECPPC.ds.ky.gov,1961;database=KNPBase;trusted_connection=yes;" -sql "select * from DBO.COUNTY_BOUNDARIES"
 ```
 
+---
+
+
 
 ### Sample Survey123 Forms
 
    - [Kentucky Heritage Land Conservation Fund Annual Inpection](https://arcg.is/K5DHf "KHLCF Yearly Inspection")
    - [KNP Natural Areas From](https://arcg.is/K5DHf "Natural Areas form")
+
+
+---
 
 
 ### Sample Map
