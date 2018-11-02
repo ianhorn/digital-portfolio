@@ -2,6 +2,10 @@
 ## Kentucky Nature Preserves
 
 - I am the project technical lead for Kentucky Nature Preserves Environmental Review tool known as [KY-BAT](https://kynaturepreserves.org "Kentucky Biological Assessment Tool").
+
+![KY-BAT](images/ky-bat.JPG)
+
+
 - New Maps Plus [Portfolio](https://rihorn.github.io "NMP Portfolio")
 
 ### Sample scripts 
@@ -30,5 +34,5 @@ $ ogr2ogr -overwrite -a_srs EPSG:3089 -f "ESRI Shapefile" "sqlexport.shp" "mssql
 ### Sample Map
 
  - Collaborative Map with KNP staff to create Aquatics Map for EEC Secretary
- 
+
 ![KY-Native Aquatics](images/native-aquatics.JPG)
