@@ -23,8 +23,8 @@ $ ogr2ogr -overwrite -a_srs EPSG:3089 -f "ESRI Shapefile" "sqlexport.shp" "mssql
 
 ### Sample Survey123 Forms
 
-   [Kentucky Heritage Land Conservation Fund Annual Inpection](https://arcg.is/K5DHf "KHLCF Yearly Inspection")
-   [KNP Natural Areas From](https://arcg.is/K5DHf "Natural Areas form"
+   - [Kentucky Heritage Land Conservation Fund Annual Inpection](https://arcg.is/K5DHf "KHLCF Yearly Inspection")
+   - [KNP Natural Areas From](https://arcg.is/K5DHf "Natural Areas form"
 
 
    
