@@ -27,4 +27,8 @@ $ ogr2ogr -overwrite -a_srs EPSG:3089 -f "ESRI Shapefile" "sqlexport.shp" "mssql
    - [KNP Natural Areas From](https://arcg.is/K5DHf "Natural Areas form")
 
 
-   
+### Sample Maps
+
+ - Collaborative Map with KNP staff to create Aquatics Map for EEC Secretary
+ 
+![KY-Native Aquatics](images/native-aquatics.JPG)
